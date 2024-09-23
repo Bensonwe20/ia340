@@ -55,8 +55,7 @@ SELECT
 
 
 --4.8
-/* no, it doesnt always produce accurate results becasue it is always trying to find the fastest way to write the code
-
+/* no, it isnt always accurate but it doest make good responses and gives the general idea when it comes down to it
 
 
 
